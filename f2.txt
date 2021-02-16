@@ -1,1 +1,2 @@
-this is v2
+this is v1
+Updated for next version v1.1.2
